@@ -42,7 +42,7 @@ This project is an example of how to use the React library to create a web appli
 
 ## Useful Links
 
-- [... (Link to React library documentation)](https://legacy.reactjs.org/docs/getting-started.html)
+- [(Link to React library documentation)](https://legacy.reactjs.org/docs/getting-started.html)
 
 ## Screenshots
 
