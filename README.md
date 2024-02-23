@@ -14,7 +14,7 @@ This project is a web application that simulates the growth of an investment ove
 
 ## Components
 
-- **Header.jsx:** 
+- **Header.jsx:**
   The Header.jsx component represents the header of the application.
   It displays the application title and other navigation elements, such as links to other pages or sections of the application.
 - **UserInput.jsx:**
@@ -26,14 +26,14 @@ This project is a web application that simulates the growth of an investment ove
 
 ## Utilities (investment.js)
 
-- **calculateInvestmentResults(input):** 
+- **calculateInvestmentResults(input):**
   This function calculates the investment results for each year of the provided duration.
   It takes an input object as a parameter, containing the investment information:
   - initialInvestment: Initial investment
   - annualInvestment: Annual investment
   - expectedReturn: Expected annual return
   - duration: Investment duration (years)
-- **formatter:** 
+- **formatter:**
   This function formats a numerical value as currency, using the American standard (US dollar).
 
 ## Final Considerations
@@ -42,8 +42,7 @@ This project is an example of how to use the React library to create a web appli
 
 ## Useful Links
 
-* **[React Documentation](https://react.dev/ "target=_blank")**
-
+- <a href="https://react.dev/" target="_blank">React Documentation</a>
 
 ## Screenshots
 
