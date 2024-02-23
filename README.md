@@ -42,7 +42,7 @@ This project is an example of how to use the React library to create a web appli
 
 ## Useful Links
 
-* **[React Documentation](https://react.dev/target="_blank")**
+* **[React Documentation](https://react.dev/ "target=_blank")**
 
 
 ## Screenshots
